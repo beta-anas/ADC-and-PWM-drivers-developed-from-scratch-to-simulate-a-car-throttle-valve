@@ -55,3 +55,12 @@ All code was written **from scratch**, without using the Arduino core libraries,
    make
 
 ## 📂 Project Structure
+.
+├── src
+│ ├── ADC.c
+│ ├── ADC.h
+│ ├── SERVO.c
+│ ├── SERVO.h
+│ └── main.c
+├── Makefile
+└── README.md
